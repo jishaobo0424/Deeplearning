@@ -1,2 +1,3 @@
-# Deeplearning
-Something about deeplearning.
+# Deep Learning
+Something about deep learning.
+
